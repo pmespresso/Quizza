@@ -1,4 +1,5 @@
 # Quizza
+<<<<<<< HEAD
 
 This is an Alexa skill that makes Quizlet a whole new refreshing experience, especially for those who are verbal-lingual learners rather than visual learners. 
 
@@ -17,3 +18,6 @@ So I wake up:
 * "Good. He was ... "  <-- Quizlet definition goes here. 
 
 * "Bad. He was actually ..." <-- Listens for keywords to be mentioned before determining response good or bad.
+=======
+An Alexa skill for Quizlets
+>>>>>>> 112c157e21464961622040fe638fd79314ed1921
